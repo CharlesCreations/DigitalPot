@@ -18,7 +18,9 @@ extern "C" void __cxa_pure_virtual() {;}
 
 //
 //
+boolean setWiper(byte wiper, byte position);
+void test();
 
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\variants\standard\pins_arduino.h" 
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino\arduino.h"
-#include "R:\Documents\Arduino\DigitalPot\DigitalPot.ino"
+#include "R:\Documents\GitHub\DigitalPot\DigitalPot\DigitalPot.ino"
